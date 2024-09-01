@@ -1,0 +1,38 @@
+body{
+    background-image: url('./imagenes/squirtlefondo.jpg');
+    font-family: verdana;
+    margin: auto;
+    width: 80%;
+    border: 1px solid black;
+}
+
+ .Contenido{
+    background-color: cadetblue;
+}
+
+.Des{
+background-color: dimgrey
+;padding-left: 30px;
+}
+
+.capa{
+    position: absolute;
+}
+
+.parrafo{
+    padding: 40px 40px;
+}
+
+.parrafo img{
+    width: 300px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: white;
+    margin-top: 50px;
+    padding: 1px;
+    font-family: calibri;
+ }
